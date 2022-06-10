@@ -24,6 +24,7 @@ function sum(a,b) {
  * St.Petersburg State University of Industrial Technologies and Design
  * CS50 
  * CodeBasics
+ * HTML Academy
  # Languages
  * English B2
  * German A1
